@@ -1,6 +1,6 @@
-Accounts: 8090
+Accounts: 8080
 Api Gateway: 8072
 Cards: 9090
 Config Server: 8071
 Eureka: 8070
-Loans: 8080
+Loans: 8090
